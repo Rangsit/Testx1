@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Gas1 TestCase - Variable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5a79ef7a-5094-41f9-956b-387ebbbc95ec</testCaseGuid>
+   <variable>
+      <defaultValue>'13500'</defaultValue>
+      <description></description>
+      <id>facdaf8e-96b3-40a5-a1af-4ec6120f9713</id>
+      <masked>false</masked>
+      <name>endMiles</name>
+   </variable>
+   <variable>
+      <defaultValue>'10000'</defaultValue>
+      <description></description>
+      <id>1df29061-f8d4-4290-9b1f-9693c9c8ebdd</id>
+      <masked>false</masked>
+      <name>startMiles</name>
+   </variable>
+   <variable>
+      <defaultValue>'40'</defaultValue>
+      <description></description>
+      <id>b663d95b-1b8b-48cd-8cb3-5931ede696f7</id>
+      <masked>false</masked>
+      <name>gallon</name>
+   </variable>
+   <variable>
+      <defaultValue>'4.5'</defaultValue>
+      <description></description>
+      <id>5c059c64-c0fe-4758-ada6-b8be91525617</id>
+      <masked>false</masked>
+      <name>price</name>
+   </variable>
+</TestCaseEntity>

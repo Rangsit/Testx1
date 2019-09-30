@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Gas1 TestCase - Constant</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>558ffd74-0ff8-43ed-aa81-78602f7e5913</testCaseGuid>
+   <variable>
+      <defaultValue>'100.00 miles per gallon'</defaultValue>
+      <description></description>
+      <id>cffecf0b-ee20-4dac-948e-50616b87de58</id>
+      <masked>false</masked>
+      <name>consume</name>
+   </variable>
+   <variable>
+      <defaultValue>'13000'</defaultValue>
+      <description></description>
+      <id>1d6f9647-1b67-4fe7-b907-4bbd039f5a3d</id>
+      <masked>false</masked>
+      <name>endMiles</name>
+   </variable>
+   <variable>
+      <defaultValue>'11100'</defaultValue>
+      <description></description>
+      <id>3c7323de-8e9a-406a-8505-e84300b4d177</id>
+      <masked>false</masked>
+      <name>startMiles</name>
+   </variable>
+   <variable>
+      <defaultValue>'40'</defaultValue>
+      <description></description>
+      <id>eababcb0-724b-4884-a7d1-467f536cea1c</id>
+      <masked>false</masked>
+      <name>gallon</name>
+   </variable>
+   <variable>
+      <defaultValue>'4.5'</defaultValue>
+      <description></description>
+      <id>fbea64d1-a063-4f0a-9733-5835e49acd87</id>
+      <masked>false</masked>
+      <name>price</name>
+   </variable>
+</TestCaseEntity>
